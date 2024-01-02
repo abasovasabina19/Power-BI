@@ -1,0 +1,11 @@
+1. Datanı Power BI vasitəsi ilə əldə olunması								
+2. Data type-ı dəyişmək								
+3. Data-da başlıqların uyğunlaşdırılması								
+4. Append və merge istifadə etmək								
+5. Unpivot tətbiq edilməsi								
+6. İlkin vizual qrafiklər yaratmaq :								
+Slicer - istifadə edərək İL, AY, Gün, Brend, Məhsul filterini yaratmaq								
+Clustered bar chart - istidafə edərək "Brendə görə satış" vizualını yaratmaq								
+Donut chart - istidafə edərək "Məhsula görə satış" vizualını yaratmaq								
+Clustered Column chart - istidafə edərək "Kateqoriya görə satış" vizualını yaratmaq								
+Clustered bar chart - istidafə edərək "Regiona görə satış" vizualını yaratmaq								
